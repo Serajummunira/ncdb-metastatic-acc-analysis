@@ -1,0 +1,14 @@
+Analysis,N,HR,95% CI,p-value,Purpose
+UNADJUSTED,,,,,
+  KM log-rank,538,—,—,<0.001,Descriptive
+,,,,,Median: 42.3 vs 21.7 mo
+ADJUSTED (PRIMARY),,,,,
+  Multivariable Cox,476,0.67,0.55–0.82,<0.001,Main analysis
+  Cox + T/N stage,329,0.60,0.46–0.76,<0.001,Staging adjusted
+  Cox (Unknown=category),476,0.68,0.56–0.83,<0.001,No data loss
+CAUSAL INFERENCE,,,,,
+  PS Overlap Weighting,476,0.68,0.66–0.69,<0.001,Equipoise weighting
+  PS Matching (1:1),252,0.76,0.58–1.00,0.046,Matched pairs
+  6-Mo Landmark Cox,470,—,—,<0.001,No immortal time bias
+,,,,,Median: 39.6 vs 25.4 mo
+  IV Analysis (2SRI),334,0.83,0.53–1.32,0.442,Facility volume instrument

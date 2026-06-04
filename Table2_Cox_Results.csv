@@ -1,0 +1,17 @@
+Variable,HR,95% CI,p-value,Sig
+Age (per year),1.01,1.00–1.02,0.027,*
+Surgery (vs No Surgery),0.67,0.55–0.81,<0.001,***
+Radiation (vs No Radiation),1.06,0.87–1.29,0.548,
+Chemotherapy (vs No Chemo),1.40,1.14–1.73,0.002,**
+Male (vs Female),1.42,1.17–1.72,<0.001,***
+Black race (vs White),0.99,0.74–1.33,0.952,
+Other/Unknown race (vs White),0.92,0.61–1.37,0.668,
+Charlson 1 (vs 0),1.16,0.89–1.49,0.270,
+Charlson 2 (vs 0),0.93,0.45–1.90,0.834,
+Charlson ≥3 (vs 0),1.64,0.79–3.42,0.187,
+Academic facility (vs Non-academic),1.03,0.85–1.26,0.750,
+Minor salivary gland (vs Major),0.75,0.62–0.91,0.004,**
+Medicare (vs Private),1.12,0.87–1.44,0.386,
+Medicaid (vs Private),0.89,0.60–1.31,0.555,
+Uninsured (vs Private),1.08,0.71–1.62,0.727,
+Other government (vs Private),1.30,0.67–2.51,0.437,

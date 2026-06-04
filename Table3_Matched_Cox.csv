@@ -1,0 +1,11 @@
+Variable,HR,95% CI,p-value,Sig
+Surgery (vs No Surgery),0.59,0.45–0.78,<0.001,***
+Age (per year),1.02,1.01–1.03,0.005,**
+Male (vs Female),1.40,1.08–1.82,0.011,*
+Black (vs White),1.08,0.74–1.60,0.679,
+Other race (vs White),1.17,0.69–1.99,0.567,
+Charlson 1 (vs 0),1.54,1.05–2.27,0.028,*
+Charlson 2 (vs 0),0.92,0.30–2.80,0.885,
+Charlson ≥3 (vs 0),1.46,0.47–4.49,0.512,
+Radiation (vs No Radiation),1.02,0.78–1.33,0.893,
+Chemotherapy (vs No Chemo),1.28,0.96–1.71,0.092,
