@@ -146,7 +146,7 @@ pip install lifelines scikit-learn statsmodels tabulate
 - This analysis was performed as part of a collaboration with a 
   supervising physician for a manuscript submission
 - The Introduction and Discussion sections of the paper were written 
-  by the physician co-author
+  by the physicians co-author
 - All analyses were performed in Python 3 using Google Colab
 - All figures were saved at 300 DPI for publication quality
 
